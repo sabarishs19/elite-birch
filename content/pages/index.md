@@ -9,7 +9,7 @@ sections:
       Explore and discover in spaces
 
     actions:
-      - label: lorem-ipsum
+      - label: SPACES
         url: '#'
         style: button
         icon: dribbble
