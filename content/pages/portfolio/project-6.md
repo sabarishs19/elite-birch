@@ -1,5 +1,5 @@
 ---
-title: User Experience
+title: User Experience & Design.
 subtitle: Print
 date: '2021-02-10'
 thumb_image: images/work-poster-2.jpg
