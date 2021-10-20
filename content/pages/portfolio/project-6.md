@@ -1,6 +1,6 @@
 ---
 title: User Experience & Design.
-subtitle: Print
+subtitle: 'Short '
 date: '2021-02-10'
 thumb_image: images/work-poster-2.jpg
 thumb_image_alt: Design Is One preview
