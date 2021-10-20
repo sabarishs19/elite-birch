@@ -1,9 +1,8 @@
 ---
-title: Design Is One
+title: User Experience
 subtitle: Print
 date: '2021-02-10'
-thumb_image: >-
-  images/work-poster-2.jpg
+thumb_image: images/work-poster-2.jpg
 thumb_image_alt: Design Is One preview
 sections:
   - type: image_section
