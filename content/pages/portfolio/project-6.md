@@ -1,6 +1,5 @@
 ---
 title: Design Planning in UX
-subtitle: Brand Development
 date: '2021-02-06'
 thumb_image: >-
   https://images.unsplash.com/photo-1516455590571-18256e5bb9ff?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fGRlc2lnbiUyMHBsYW5uaW5nfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60
