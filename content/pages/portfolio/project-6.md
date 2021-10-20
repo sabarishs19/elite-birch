@@ -16,8 +16,7 @@ sections:
 Ux and Ui, while they can be completely different themes, they produce the same result. Aspect results. While some projects can have simplicity and pleasantness, few projects can be aesthetic or complex based on the planned result. Design planning in UX is aimed to stimulate emotions and curiosity. Design planning can also have other practices, like how many steps should one follow to get to a certain point or the target modules that are going to be used. Design planning is the result of User Research, planning the experience, and analytical end outcomes.
   - type: text_section
     content: >-
-    
-
+    Ux planning
 seo:
   title: Design planning in UX
   description: This is the sample project description
