@@ -3,7 +3,7 @@ title: Design Is One
 subtitle: Print
 date: '2020-02-10'
 thumb_image: >-
-  https://images.unsplash.com/photo-1611162617213-7d7a39e9b1d7?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fGRlc2lnbiUyMHBsYW5uaW5nfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60
+  https://images.unsplash.com/photo-1516455590571-18256e5bb9ff?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80
 thumb_image_alt: Design Is One preview
 sections:
   - type: image_section
