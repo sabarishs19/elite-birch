@@ -18,7 +18,7 @@ Ux and Ui, while they can be completely different themes, they produce the same 
     content: >-
 
 seo:
-  title: Subtle
+  title: Design planning in UX
   description: This is the sample project description
   extra:
     - name: 'og:type'
