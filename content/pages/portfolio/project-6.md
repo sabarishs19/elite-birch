@@ -1,7 +1,7 @@
 ---
 title: Design Is One
 subtitle: Print
-date: '2020-02-10'
+date: '2021-02-10'
 thumb_image: >-
   images/work-poster-2.jpg
 thumb_image_alt: Design Is One preview
