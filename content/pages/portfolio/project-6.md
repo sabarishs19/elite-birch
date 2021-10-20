@@ -2,7 +2,7 @@
 title: Design Is One
 subtitle: Print
 date: '2020-02-10'
-thumb_image: images/work-poster-1-thumb.jpg
+thumb_image: https://images.unsplash.com/photo-1611162617213-7d7a39e9b1d7?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fGRlc2lnbiUyMHBsYW5uaW5nfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60
 thumb_image_alt: Design Is One preview
 sections:
   - type: image_section
