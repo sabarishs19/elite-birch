@@ -11,15 +11,7 @@ sections:
     caption: This is the caption of the image
     width: wide
   - type: text_section
-    content: >-
-      Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit
-      accumsan sapien blandit ac amet faucibus aliquet placerat commodo.
-      Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a
-      in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia
-      ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum
-      massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan
-      euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet
-      arcu accumsan lorem amet accumsan.
+    content: "When creating or designing a project, the focus must be on the end-user. The result should be the common experience of people. Any digital experience should be effective for the user.\r\nUX and UI, while they can be completely different themes, they produce the same result. Aspect results. While some projects can have simplicity and pleasantness, few projects can be aesthetic or complex based on the planned result. Design planning in UX is aimed to stimulate emotions and curiosity. Design planning can also have other practices, like how many steps should one follow to get to a certain point or the target modules that are going to be used. Design planning is the result of User Research, planning the experience, and analytical end outcomes.\n"
   - type: image_section
     image: images/work-poster-2.jpg
     image_alt: Design Is One 2
