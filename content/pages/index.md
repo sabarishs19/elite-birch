@@ -38,7 +38,7 @@ sections:
     bg_color: light
 layout: advanced
 seo:
-  title: ''
+  title: SpaceSurf - Design/UX
   description: 'Design case studies. UX theories. '
   robots: []
   extra: []
