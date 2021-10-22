@@ -1,6 +1,6 @@
 ---
 title: 'Google AdSense ads: Case Study'
-subtitle: Editorial Design
+subtitle: UX in web ads.
 date: '2021-01-10'
 thumb_image: images/work-magazine-1-thumb.jpg
 thumb_image_alt: Case study
