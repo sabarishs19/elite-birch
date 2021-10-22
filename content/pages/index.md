@@ -39,7 +39,7 @@ sections:
 layout: advanced
 seo:
   title: ''
-  description: ''
+  description: 'Design case studies. UX theories. '
   robots: []
   extra: []
 ---
