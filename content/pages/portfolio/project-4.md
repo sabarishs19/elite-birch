@@ -1,6 +1,6 @@
 ---
 title: Banking design - UX case study
-subtitle: SBI online interface
+subtitle: 'SBI online interface design '
 date: '2020-05-10'
 thumb_image: images/work-book-1-thumb.jpg
 thumb_image_alt: Nature Mockup Magazine preview
