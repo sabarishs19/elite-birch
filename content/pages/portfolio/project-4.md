@@ -1,5 +1,5 @@
 ---
-title: Nature Mockup Magazine
+title: Banking design - UX case study
 subtitle: Editorial Design
 date: '2020-05-10'
 thumb_image: images/work-book-1-thumb.jpg
