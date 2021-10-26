@@ -34,6 +34,7 @@ sections:
     image: images/cta.svg
     image_alt: Illustration
     bg_color: light
+    title: Subscribe to receive updates.
 layout: advanced
 seo:
   title: SpaceSurf - Design/UX
