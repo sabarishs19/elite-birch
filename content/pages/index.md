@@ -5,9 +5,8 @@ sections:
   - type: hero_section
     section_id: hero
     title: Design with detail. Design & Human psychology.
-    content: |+
-      Explore and discover in spaces
-
+    content: |
+      Explore and discover in forum
     actions:
       - label: SPACES
         url: '#'
