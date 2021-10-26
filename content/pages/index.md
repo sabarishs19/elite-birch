@@ -37,7 +37,7 @@ sections:
     title: Subscribe to receive updates.
 layout: advanced
 seo:
-  title: SpaceSurf - Design/UX
+  title: coldtea- Design/UX
   description: Design case studies. UX theories. Psychology & Human Interactions.
   robots: []
   extra: []
