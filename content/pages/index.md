@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - type: hero_section
     section_id: hero
-    title: 'Space sounds interesting, life is too'
+    title: Design with detail. Design & Human psychology.
     content: |+
       Explore and discover in spaces
 
