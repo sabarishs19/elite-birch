@@ -13,7 +13,6 @@ sections:
   - type: text_section
     content: "When creating or designing a project, the focus must be on the end-user. The result should be the common experience of people. Any digital experience should be effective for the user.\r\nUX and UI, while they can be completely different themes, they produce the same result. Aspect results. While some projects can have simplicity and pleasantness, few projects can be aesthetic or complex based on the planned result. Design planning in UX is aimed to stimulate emotions and curiosity. Design planning can also have other practices, like how many steps should one follow to get to a certain point or the target modules that are going to be used. Design planning is the result of User Research, planning the experience, and analytical end outcomes.\n"
   - type: image_section
-    image: images/work-poster-2.jpg
     image_alt: Design Is One 2
     width: wide
   - type: text_section
