@@ -21,7 +21,7 @@ sections:
     width: wide
   - type: text_section
 seo:
-  title: Nature Magazine
+  title: Google AdSense case study - Web page ads
   description: This is the sample project description
   extra:
     - name: 'og:type'
