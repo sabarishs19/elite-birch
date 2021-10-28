@@ -1,5 +1,5 @@
 ---
-title: coldtea
+title: ligthouse design
 hide_title: true
 sections:
   - type: hero_section
