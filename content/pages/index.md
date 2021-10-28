@@ -37,7 +37,7 @@ sections:
     title: Subscribe to receive updates.
 layout: advanced
 seo:
-  title: coldtea- Design/UX
+  title: Lighthouse - Design/UX
   description: Design case studies. UX theories. Psychology & Human Interactions.
   robots: []
   extra: []
