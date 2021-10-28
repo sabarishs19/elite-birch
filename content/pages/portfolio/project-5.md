@@ -22,7 +22,7 @@ sections:
   - type: text_section
 seo:
   title: Google AdSense case study - Web page ads
-  description: This is the sample project description
+  description: 'Google web page ads, and what can be done with User Experience'
   extra:
     - name: 'og:type'
       value: website
