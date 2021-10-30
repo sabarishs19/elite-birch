@@ -1,6 +1,6 @@
 ---
 title: Lighthouse application - Case Study
-subtitle: 'Social application for '
+subtitle: Social application for infor
 date: '2020-04-10'
 thumb_image: images/work-book-cover-1-thumb.jpg
 thumb_image_alt: The Book preview
