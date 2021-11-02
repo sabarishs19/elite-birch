@@ -1,5 +1,5 @@
 ---
-title: Banking design - UX case study
+title: The UX of Sign
 subtitle: 'SBI online interface re-design '
 date: '2020-05-10'
 thumb_image: images/work-book-1-thumb.jpg
