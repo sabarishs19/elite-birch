@@ -1,5 +1,5 @@
 ---
-title: The UX of Sign
+title: 'The UX of Sign-Ups & Log-Ins: Case Study'
 subtitle: 'The problem with application Authentication '
 date: '2020-05-10'
 thumb_image: images/work-book-1-thumb.jpg
