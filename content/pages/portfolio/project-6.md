@@ -16,11 +16,24 @@ sections:
     image_alt: Design Is One 2
     width: wide
   - type: text_section
-    content: >-
-      Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa
-      massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing
-      placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus.
-      Aliquam lobortis faucibus blandit ac phasellus.
+    content: >
+      #### What is a design system?
+
+
+      A design system is a source that helps teams and groups design/develop the
+      product. It defined the structure and the elements that help the concerned
+      people plan on the product.
+
+
+      It includes identity, values, principles, best practices, patterns,
+      component designs, documentation. It evolves the total process of the
+      development of the product. Style guide focuses on the intricate style
+      details like the colors and typography. Pattern libraries usually
+      container components that are usually reusable, like buttons and bars.
+
+
+      Though the product ideas will evolve throughout the process, the system
+      shares the values and the initial idea purpose.
   - type: text_section
     content: >-
       Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit
