@@ -2,7 +2,7 @@
 title: 'The UX of Sign-Ups & Log-Ins: Case Study'
 subtitle: 'The problem with application Authentication '
 date: '2020-05-10'
-thumb_image: images/work-book-1-thumb.jpg
+thumb_image: /images/Frame 130-c8f57a19.jpg
 thumb_image_alt: Nature Mockup Magazine preview
 sections:
   - type: image_section
