@@ -2,7 +2,7 @@
 title: User Experience & Design.
 subtitle: 'UX terms and analogies. '
 date: '2021-02-10'
-thumb_image: /images/Frame 130.jpg
+thumb_image: /images/work-poster-1-thumb.jpg
 thumb_image_alt: Design Is One preview
 sections:
   - type: image_section
