@@ -20,11 +20,11 @@ sections:
     content: |
       ![](/images/Frame%2063%20\(2\).png)
 
-
-
-
-
       ![](/images/MacBook%20Pro%20-%201.png)![](/images/Frame%20104.png)
+
+      ![](/images/Frame%2064-523fbda6.png)
+
+      ![](/images/Frame%20105.png)
   - type: image_section
     image: images/work-book-cover-3.jpg
     image_alt: The Book 3
